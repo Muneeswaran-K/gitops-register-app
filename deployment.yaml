@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: huntik/register-app-pipeline:20250314-109
+          image: huntik/register-app-pipeline:Test-20250314-110
           resources:
             limits:
               memory: "256Mi"
